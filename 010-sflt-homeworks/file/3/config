@@ -1,0 +1,4 @@
+Host deb-192.168.1.102
+    HostName 192.168.1.102
+    User deb
+    IdentityFile ~/.ssh/rsa-no-pass
