@@ -1,0 +1,1 @@
+URL = 'amqp://maksim:maksim@192.168.1.114:5672/'
